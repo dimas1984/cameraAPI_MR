@@ -1,0 +1,1 @@
+Application Development: By using the A button on the controller the camera can take photos
