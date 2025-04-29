@@ -1,0 +1,1 @@
+Pengembangan Aplikasi : Dengan menggunakan tombol A pada controller camera dapat mengambil foto
